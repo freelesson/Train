@@ -1,0 +1,41 @@
+body  {
+	
+}
+
+div.container {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgb(75, 26, 26);
+	padding: 20px;
+	color:  blue;
+}
+
+
+button {
+	width: 150px;
+	height: 50px;
+	background-color:  blue;
+	color:  white;
+}
+
+h4 {
+	text-align: center;
+	font-weight: bold;
+	
+}
+
+
+h3 {
+	text-align: center;
+	font-size: 18pt;
+	font-weight: bold;
+	
+}
+
+.card-primary {
+	padding: 20px;
+}
+
+
+
